@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+  height: 100vh;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+/* Media query Mobile v */
+@media (max-width: 576px) {
+  .btn-github {
+    width: 90%;
+  }
+
+  .navbar {
+    background-color: black !important;
+  }
+}
